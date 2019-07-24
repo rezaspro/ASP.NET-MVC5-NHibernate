@@ -1,0 +1,92 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>@Page.Title</title>
+    @RenderSection("head", required: false)
+    <script src="~/Scripts/jquery-2.2.3.min.js"></script>
+    <link href="~/Content/bootstrap-3.3.6/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Content/Site.css" rel="stylesheet" />
+    <script src="~/Content/bootstrap-3.3.6/js/bootstrap.min.js"></script>
+
+    <link href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.2.0/css/font-awesome.min.css" type="text/css" rel="stylesheet" />
+    <link href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.2.0/fonts/fontawesome-webfont.ttf" rel="stylesheet" />
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+
+</head>
+<body>
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+
+
+
+    </div>
+    <br />
+    <div class="container body-content" style="min-height: 40vh;">
+        <div class="col-md-2" id="sidebar" role="navigation" style="padding-right:0px;padding-left:0px;">
+            @*<br />*@
+            <div class="panel panel-primary menu-group">
+                <div class="panel-heading">
+                    <h4 class="panel-title">
+                        Test
+                        @* @userMenu.Key.Name*@
+                    </h4>
+                </div>
+            </div>
+
+            <ul class="panel-group" id="accordion">
+                <li class="panel panel-default">
+                    <div class="panel-heading" data-toggle="collapse" data-parent="#accordion" href="#collapse_">
+                        <h4 class="panel-title">
+                            <a href="#">Name </a>
+                        </h4>
+                    </div>
+                    <div id="collapse_" class="panel-collapse collapse">
+                        <div class="panel-body">
+                            <ul>
+                                <li><a href="#" class="submenuitem">Test</a> </li>
+                                @*@if (subMenuItemListActive.Count > 0)
+                                    {
+                                        foreach (var submenu in subMenuItemListActive)
+                                        {
+                                            if (String.IsNullOrEmpty(submenu.Link))
+                                            {
+                                                <li><a href="#" class="submenuitem">@submenu.Name</a> </li>
+                                            }
+                                            else
+                                            {
+                                                <li><a href="@Url.Content("~")@submenu.Link" data-businessid="@submenu.BusinessId" class="submenuitem">@submenu.Name</a> </li>
+                                            }
+                                        }
+                                    }*@
+                            </ul>
+                        </div>
+                    </div>
+
+
+
+                </li>
+            </ul>
+        </div>
+        <div class="col-md-10" id="bodyContent" role="navigation" style="padding-right: 0px;">
+            @*<br />*@
+            <ul class="breadcrumb">Test</ul>
+
+            <div id="main-body-content">
+                @RenderBody()
+            </div>
+        </div>
+
+
+    </div>
+
+    <div class="container body-content">
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - My ASP.NET Application</p>
+        </footer>
+    </div>
+    @RenderSection("scripts", required: false)
+</body>
+</html>

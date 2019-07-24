@@ -1,0 +1,26 @@
+C:\Users\shakil\Desktop\PTS.ProjectSolution\PTS.BusinessRule\bin\Debug\PTS.BusinessRule.dll
+C:\Users\shakil\Desktop\PTS.ProjectSolution\PTS.BusinessRule\bin\Debug\PTS.BusinessRule.pdb
+C:\Users\shakil\Desktop\PTS.ProjectSolution\PTS.BusinessRule\obj\Debug\PTS.BusinessRule.dll
+C:\Users\shakil\Desktop\PTS.ProjectSolution\PTS.BusinessRule\obj\Debug\PTS.BusinessRule.pdb
+C:\Users\dev\Desktop\PTS.ProjectSolution\PTS.BusinessRule\bin\Debug\PTS.BusinessRule.dll
+C:\Users\dev\Desktop\PTS.ProjectSolution\PTS.BusinessRule\bin\Debug\PTS.BusinessRule.pdb
+C:\Users\dev\Desktop\PTS.ProjectSolution\PTS.BusinessRule\obj\Debug\PTS.BusinessRule.csprojResolveAssemblyReference.cache
+C:\Users\dev\Desktop\PTS.ProjectSolution\PTS.BusinessRule\obj\Debug\PTS.BusinessRule.dll
+C:\Users\dev\Desktop\PTS.ProjectSolution\PTS.BusinessRule\obj\Debug\PTS.BusinessRule.pdb
+E:\PTS.ProjectSolution\PTS.BusinessRule\bin\Debug\PTS.BusinessRule.dll
+E:\PTS.ProjectSolution\PTS.BusinessRule\bin\Debug\PTS.BusinessRule.pdb
+E:\PTS.ProjectSolution\PTS.BusinessRule\obj\Debug\PTS.BusinessRule.csprojResolveAssemblyReference.cache
+E:\PTS.ProjectSolution\PTS.BusinessRule\obj\Debug\PTS.BusinessRule.dll
+E:\PTS.ProjectSolution\PTS.BusinessRule\obj\Debug\PTS.BusinessRule.pdb
+E:\03. Essential Software\06. Test Projects\PTS.ProjectSolution2\PTS.BusinessRule\bin\Debug\PTS.BusinessRule.dll
+E:\03. Essential Software\06. Test Projects\PTS.ProjectSolution2\PTS.BusinessRule\bin\Debug\PTS.BusinessRule.pdb
+E:\03. Essential Software\06. Test Projects\PTS.ProjectSolution2\PTS.BusinessRule\obj\Debug\PTS.BusinessRule.csprojResolveAssemblyReference.cache
+E:\03. Essential Software\06. Test Projects\PTS.ProjectSolution2\PTS.BusinessRule\obj\Debug\PTS.BusinessRule.csproj.CoreCompileInputs.cache
+E:\03. Essential Software\06. Test Projects\PTS.ProjectSolution2\PTS.BusinessRule\obj\Debug\PTS.BusinessRule.dll
+E:\03. Essential Software\06. Test Projects\PTS.ProjectSolution2\PTS.BusinessRule\obj\Debug\PTS.BusinessRule.pdb
+E:\03. TEST PROJECT\PTS.ProjectSolution2\PTS.BusinessRule\bin\Debug\PTS.BusinessRule.dll
+E:\03. TEST PROJECT\PTS.ProjectSolution2\PTS.BusinessRule\bin\Debug\PTS.BusinessRule.pdb
+E:\03. TEST PROJECT\PTS.ProjectSolution2\PTS.BusinessRule\obj\Debug\PTS.BusinessRule.csprojAssemblyReference.cache
+E:\03. TEST PROJECT\PTS.ProjectSolution2\PTS.BusinessRule\obj\Debug\PTS.BusinessRule.csproj.CoreCompileInputs.cache
+E:\03. TEST PROJECT\PTS.ProjectSolution2\PTS.BusinessRule\obj\Debug\PTS.BusinessRule.dll
+E:\03. TEST PROJECT\PTS.ProjectSolution2\PTS.BusinessRule\obj\Debug\PTS.BusinessRule.pdb

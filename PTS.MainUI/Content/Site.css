@@ -1,0 +1,82 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+
+/*for menu*/
+.menu-group {
+    margin: 0px;
+    margin-bottom: 4px;
+}
+
+a:focus, a:hover {
+    text-decoration: none;
+    outline: 0;
+}
+
+/* Side Menu Style start*/
+#accordion {
+    list-style: none;
+    padding: 0px;
+}
+
+    #accordion a:hover {
+        text-decoration: none;
+        color: #000;
+        outline: 0;
+    }
+
+    #accordion li {
+        list-style: none;
+    }
+
+    #accordion .panel-body ul li {
+        border-bottom: 1px solid #ccc;
+        padding: 3px;
+    }
+
+        #accordion .panel-body ul li:last-child {
+            padding-bottom: 0px;
+            border-bottom: none;
+        }
+
+    #accordion .panel-heading:hover {
+        -moz-border-radius: 0px;
+        -webkit-border-radius: 0px;
+        -ms-border-radius: 0px;
+        background-color: #B6D2DB;
+        cursor: pointer;
+    }
+
+    #accordion .panel-default {
+        -ms-border-radius: 0px;
+    }
+
+    #accordion .panel-body {
+        padding: 10px;
+    }
+
+        #accordion .panel-body ul {
+            padding: 0px;
+        }

@@ -1,0 +1,26 @@
+C:\Users\shakil\Desktop\PTS.ProjectSolution\PTS.BusinessModel\bin\Debug\PTS.BusinessModel.dll
+C:\Users\shakil\Desktop\PTS.ProjectSolution\PTS.BusinessModel\bin\Debug\PTS.BusinessModel.pdb
+C:\Users\shakil\Desktop\PTS.ProjectSolution\PTS.BusinessModel\obj\Debug\PTS.BusinessModel.dll
+C:\Users\shakil\Desktop\PTS.ProjectSolution\PTS.BusinessModel\obj\Debug\PTS.BusinessModel.pdb
+C:\Users\shakil\Desktop\PTS.ProjectSolution\PTS.BusinessModel\obj\Debug\PTS.BusinessModel.csprojResolveAssemblyReference.cache
+C:\Users\dev\Desktop\PTS.ProjectSolution\PTS.BusinessModel\bin\Debug\PTS.BusinessModel.dll
+C:\Users\dev\Desktop\PTS.ProjectSolution\PTS.BusinessModel\bin\Debug\PTS.BusinessModel.pdb
+C:\Users\dev\Desktop\PTS.ProjectSolution\PTS.BusinessModel\obj\Debug\PTS.BusinessModel.dll
+C:\Users\dev\Desktop\PTS.ProjectSolution\PTS.BusinessModel\obj\Debug\PTS.BusinessModel.pdb
+E:\PTS.ProjectSolution\PTS.BusinessModel\bin\Debug\PTS.BusinessModel.dll
+E:\PTS.ProjectSolution\PTS.BusinessModel\bin\Debug\PTS.BusinessModel.pdb
+E:\PTS.ProjectSolution\PTS.BusinessModel\obj\Debug\PTS.BusinessModel.csprojResolveAssemblyReference.cache
+E:\PTS.ProjectSolution\PTS.BusinessModel\obj\Debug\PTS.BusinessModel.dll
+E:\PTS.ProjectSolution\PTS.BusinessModel\obj\Debug\PTS.BusinessModel.pdb
+E:\03. Essential Software\06. Test Projects\PTS.ProjectSolution2\PTS.BusinessModel\bin\Debug\PTS.BusinessModel.dll
+E:\03. Essential Software\06. Test Projects\PTS.ProjectSolution2\PTS.BusinessModel\bin\Debug\PTS.BusinessModel.pdb
+E:\03. Essential Software\06. Test Projects\PTS.ProjectSolution2\PTS.BusinessModel\obj\Debug\PTS.BusinessModel.csprojResolveAssemblyReference.cache
+E:\03. Essential Software\06. Test Projects\PTS.ProjectSolution2\PTS.BusinessModel\obj\Debug\PTS.BusinessModel.csproj.CoreCompileInputs.cache
+E:\03. Essential Software\06. Test Projects\PTS.ProjectSolution2\PTS.BusinessModel\obj\Debug\PTS.BusinessModel.dll
+E:\03. Essential Software\06. Test Projects\PTS.ProjectSolution2\PTS.BusinessModel\obj\Debug\PTS.BusinessModel.pdb
+E:\03. TEST PROJECT\PTS.ProjectSolution2\PTS.BusinessModel\bin\Debug\PTS.BusinessModel.dll
+E:\03. TEST PROJECT\PTS.ProjectSolution2\PTS.BusinessModel\bin\Debug\PTS.BusinessModel.pdb
+E:\03. TEST PROJECT\PTS.ProjectSolution2\PTS.BusinessModel\obj\Debug\PTS.BusinessModel.csprojAssemblyReference.cache
+E:\03. TEST PROJECT\PTS.ProjectSolution2\PTS.BusinessModel\obj\Debug\PTS.BusinessModel.csproj.CoreCompileInputs.cache
+E:\03. TEST PROJECT\PTS.ProjectSolution2\PTS.BusinessModel\obj\Debug\PTS.BusinessModel.dll
+E:\03. TEST PROJECT\PTS.ProjectSolution2\PTS.BusinessModel\obj\Debug\PTS.BusinessModel.pdb
